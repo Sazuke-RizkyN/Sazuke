@@ -1,2 +1,5 @@
-# Sazuke
-Cc
+#ZukeN
+
+echo "helo pewe"
+echo "_______"
+echo "lol"
